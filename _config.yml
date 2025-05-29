@@ -25,10 +25,10 @@ disqus_shortname:
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 2dd7b9 #80B3FF
-  primary-rgb: "45,215,185" #"128,179,255"
-  secondary: 48597a #FD6E8A
-  secondary-dark: 001846 #A2122F
+  primary: 09d715 #80B3FF
+  primary-rgb: "9,215,21" #"128,179,255"
+  secondary: 06930E #FD6E8A
+  secondary-dark: 04620A4 #A2122F
 
 # Footer settings
 footer:
@@ -40,7 +40,7 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: linkedin
-    url: https://www.linkedin.com/in/beau-gilbert93/
+    url: https://www.linkedin.com/in/anthony-mclaughlin-38a652361/
   - title: github
     url: https://github.com/AnthonyMcl970
 
@@ -50,7 +50,7 @@ email:
 
 # Postal address (add as many lines as necessary)
 location:
-  - line: Par
+  - line: Parachute, Colorado
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.
 Cyber icons created by <a href="https://www.flaticon.com/free-icons/cyber-attack" title="cyber attack icons">Freepik - Flaticon</a>.'
