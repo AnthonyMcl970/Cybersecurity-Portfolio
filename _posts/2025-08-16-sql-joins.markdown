@@ -5,7 +5,7 @@ title: SQL Query
 img: sql.png
 alt: image-alt
 
-# Reminder: Update this link with your own project link
+# Project link
 project-url: https://docs.google.com/document/d/1vcXlKMu1jHJGT-7rHDXoONvRvTeTDrxQFLOvm64IWxY/edit?usp=sharing
 # project description
 description: With SQL and Using UNION and UNION ALL to efficiently combine and query data from different tables through the execution of JOIN commands.
